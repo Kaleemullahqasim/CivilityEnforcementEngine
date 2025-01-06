@@ -3,7 +3,7 @@
 A real-time toxicity detection system that helps maintain civil discourse in online communications.
 
 ## 🎥 Demo
-[Watch Demo Video](CivilityEnforcementEngine/ModrationModel-demo.mp4) - Please add your demo video link here
+[Watch Demo Video](https://github.com/Kaleemullahqasim/CivilityEnforcementEngine/blob/main/ModrationModel-demo.mp4) - Please add your demo video link here
 
 ## 🌟 Features
 
