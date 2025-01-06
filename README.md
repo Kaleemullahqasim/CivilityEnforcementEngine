@@ -3,7 +3,7 @@
 A real-time toxicity detection system that helps maintain civil discourse in online communications.
 
 ## 🎥 Demo
-[Watch Demo Video](https://github.com/Kaleemullahqasim/CivilityEnforcementEngine/blob/main/ModrationModel-demo.mp4) - Please add your demo video link here
+[Watch the demo video directly in your browser](https://raw.githubusercontent.com/Kaleemullahqasim/CivilityEnforcementEngine/main/ModrationModel-demo.mp4?raw=true)
 
 ## 🌟 Features
 
@@ -56,4 +56,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## 📧 Contact
 
 Your Name - [your@email.com](mailto:your@email.com)
-Project Link: [https://github.com/yourusername/CivilityEnforcementEngine](https://github.com/yourusername/CivilityEnforcementEngine)
+Project Link: [https://github.com/yourusername/CivilityEnforcementEngine](https://github.com/yourusername/CivilityEnforcementEngine](https://github.com/yourusername/CivilityEnforcementEngine)
