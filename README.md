@@ -29,7 +29,7 @@ A real-time toxicity detection system that helps maintain civil discourse in onl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CivilityEnforcementEngine.git
+git clone https://github.com/Kaleemullahqasim/CivilityEnforcementEngine
 ```
 
 2. Install dependencies:
@@ -72,5 +72,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 📧 Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
-Project Link: [https://github.com/yourusername/CivilityEnforcementEngine](https://github.com/yourusername/CivilityEnforcementEngine](https://github.com/yourusername/CivilityEnforcementEngine)
+Your Name - [kaleem@my.swjtu.edu.cn](mailto:kaleem@my.swjtu.edu.cn)
+Project Link: [https://github.com/Kaleemullahqasim/CivilityEnforcementEngine](https://github.com/Kaleemullahqasim/CivilityEnforcementEngine](https://github.com/Kaleemullahqasim/CivilityEnforcementEngine)
