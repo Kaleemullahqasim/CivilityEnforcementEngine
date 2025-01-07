@@ -72,5 +72,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 📧 Contact
 
-Your Name - [kaleem@my.swjtu.edu.cn](mailto:kaleem@my.swjtu.edu.cn)
-Project Link: [https://github.com/Kaleemullahqasim/CivilityEnforcementEngine](https://github.com/Kaleemullahqasim/CivilityEnforcementEngine](https://github.com/Kaleemullahqasim/CivilityEnforcementEngine)
+Kaleem - [kaleem@my.swjtu.edu.cn](mailto:kaleem@my.swjtu.edu.cn)
+
+Project Link: [https://github.com/Kaleemullahqasim/CivilityEnforcementEngine](https://github.com/Kaleemullahqasim/CivilityEnforcementEngine)
