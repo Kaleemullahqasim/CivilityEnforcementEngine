@@ -1,0 +1,6 @@
+Flask
+flask-socketio
+detoxify
+flask_limiter
+Flask-Limiter
+pip
